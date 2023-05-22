@@ -3,6 +3,8 @@ const name1='Oleg'
 let name2="Alex"
 
 //data types
+const rndm=undefined
+const efg=null
 const name='Vlad'
 const secondName='Ivanov'
 const age=27
@@ -23,7 +25,5 @@ const person2={
     isProgrammer,
     cars
 }
+
 console.log(person,person2)
-
-
-
