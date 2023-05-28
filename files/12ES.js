@@ -58,9 +58,6 @@ console.log(age ?? 23)//0
 console.log(age || 23)//23
 
 
-
-
-
 //ES12
 //replaceAll
 const text=' Max fgfg max dggf maximum'
